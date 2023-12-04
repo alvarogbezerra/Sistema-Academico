@@ -1,6 +1,6 @@
 # Sistema-Academico
 
-Desenvolvi esse sistema foi desenvolvido na disciplina de POO com mais duas pessoas, porém, pretendo desenvolver novamente para aperfeiçoar meus conhecimentos na conecção do Java com o banco de dados. O requisitos foram elaborados pelo professor Jesiel Viana e funcionarão para me guiar no desenvolvimento das funcionalidades.
+Desenvolvi esse sistema foi desenvolvido na disciplina de POO com mais duas pessoas, porém, pretendo desenvolver novamente para aperfeiçoar meus conhecimentos na conecção do Java com o banco de dados. O requisitos foram elaborados pelo professor Jesiel Viana e funcionarão para me guiar no desenvolvimento das funcionalidades relacionadas a cursos, disciplinas, turmas, professores e alunos:
 
 ## 1- Gestão de Cursos:
 
